@@ -1,0 +1,3 @@
+Getting to learn Version Control and using github as one of the tools for version control
+- learning how to use git-bash is one cool thing
+- how to clone repository 
